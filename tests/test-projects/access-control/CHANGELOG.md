@@ -1,5 +1,15 @@
 # @keystonejs/cypress-project-access-control
 
+## 6.0.5
+
+### Patch Changes
+
+- Updated dependencies [[`8e9b04ecd`](https://github.com/keystonejs/keystone/commit/8e9b04ecd07d9c5d0e6aead4705e7a655498ae05), [`b3c4a756f`](https://github.com/keystonejs/keystone/commit/b3c4a756fd2028d1e29967392d37098419e54ec3), [`17c86e0c3`](https://github.com/keystonejs/keystone/commit/17c86e0c3eda7ba08d1bb8edf5eb8ddc9a819e5a), [`714bdadce`](https://github.com/keystonejs/keystone/commit/714bdadce8c87a15cf3a296b44a31b9b9ca95e9d), [`b3c4a756f`](https://github.com/keystonejs/keystone/commit/b3c4a756fd2028d1e29967392d37098419e54ec3), [`a4002b045`](https://github.com/keystonejs/keystone/commit/a4002b045b3e783971c382f9373159c04845beeb), [`2ff93692a`](https://github.com/keystonejs/keystone/commit/2ff93692aaef70474449f30fb249eae8aa33a64a)]:
+  - @keystone-next/adapter-prisma-legacy@4.0.0
+  - @keystone-next/fields-legacy@23.1.0
+  - @keystone-next/keystone-legacy@20.1.0
+  - @keystone-next/app-admin-ui-legacy@7.4.3
+
 ## 6.0.4
 
 ### Patch Changes

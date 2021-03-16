@@ -1,5 +1,15 @@
 # @keystonejs/keystone
 
+## 20.1.0
+
+### Minor Changes
+
+- [#3946](https://github.com/keystonejs/keystone/pull/3946) [`8e9b04ecd`](https://github.com/keystonejs/keystone/commit/8e9b04ecd07d9c5d0e6aead4705e7a655498ae05) Thanks [@timleslie](https://github.com/timleslie)! - Added experimental support for Prisma + SQLite as a database adapter.
+
+### Patch Changes
+
+- [#4931](https://github.com/keystonejs/keystone/pull/4931) [`a4002b045`](https://github.com/keystonejs/keystone/commit/a4002b045b3e783971c382f9373159c04845beeb) Thanks [@timleslie](https://github.com/timleslie)! - Updated schema generation to no longer consider `access.auth`, as it is no longer used in Keystone Next.
+
 ## 20.0.0
 
 ### Major Changes

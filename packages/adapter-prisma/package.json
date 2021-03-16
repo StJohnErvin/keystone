@@ -13,11 +13,11 @@
     "@keystone-next/fields-auto-increment-legacy": "^8.1.6",
     "@keystone-next/keystone-legacy": "^20.0.0",
     "@keystone-next/utils-legacy": "^7.0.0",
-    "@prisma/client": "2.18.0",
-    "@prisma/migrate": "2.18.0",
-    "@prisma/sdk": "2.18.0",
+    "@prisma/client": "2.19.0",
+    "@prisma/migrate": "2.19.0",
+    "@prisma/sdk": "2.19.0",
     "cuid": "^2.1.8",
-    "prisma": "2.18.0"
+    "prisma": "2.19.0"
   },
   "repository": "https://github.com/keystonejs/keystone/tree/master/packages/adapter-prisma"
 }
